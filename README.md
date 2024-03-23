@@ -16,7 +16,7 @@ model-index:
       type: LunarLander-v2
     metrics:
     - type: mean_reward
-      value: 290.51 +/- 20.06
+      value: 290.09 +/- 17.84
       name: mean_reward
       verified: false
 ---
